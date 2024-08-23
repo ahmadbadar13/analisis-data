@@ -5,6 +5,9 @@
 ![image](https://github.com/user-attachments/assets/48f4fc5f-1918-4ac6-b6ac-8f7d7e69e9e8)
 ![image](https://github.com/user-attachments/assets/dca2d3a4-4461-429d-a106-8a3587046095)
 
+# Setup Environment
+- pip install matplotlib pandas seaborn streamlit
+
 # Penggunaan
 - cd dashboard
 - streamlit run dashboard.py
