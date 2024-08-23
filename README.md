@@ -6,5 +6,5 @@
 ![image](https://github.com/user-attachments/assets/dca2d3a4-4461-429d-a106-8a3587046095)
 
 # Penggunaan
-cd dashboard
-streamlit run dashboard.py
+- cd dashboard
+- streamlit run dashboard.py
